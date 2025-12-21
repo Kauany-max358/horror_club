@@ -1,0 +1,146 @@
+[
+    {
+    "imagem": "it.jpeg",
+    "nome": "It: A Coisa",
+    "diretor": "Andy Muschietti",
+    "ano": 2017,
+    "genero": ["Terror", "Fantasia", "Suspense", "Sobrenatural"],
+    "sinopse": "Um grupo de crianças enfrenta seus piores medos quando confrontam uma entidade maligna que assume a forma de um palhaço assustador. Um filme aterrorizante que redefine o medo, com uma atuação memorável de Bill Skarsgård como Pennywise. Uma obra prima dos remakes de terror, simplesmente sencional!",
+    "link": "https://www.primevideo.com/detail/0IRMXMZIU9ST0QQBV9UZRPEBM3/ref=atv_dp_share_cu_r"
+},
+    {
+    "imagem": "invocacaodomal.jpeg",
+    "nome": "Invocação do Mal",
+    "diretor": "James Wan",
+    "ano": 2013,
+    "genero": ["Terror", "Sobrenatural", "Suspense"],
+    "sinopse": "Baseado em eventos reais, o filme segue os investigadores paranormais Ed e Lorraine Warren enquanto eles ajudam uma família aterrorizada por uma presença sombria em sua fazenda. Um filme realmente assustador e inovador no gênero de terror, prepare-se para se arrepiar!",
+    "link": "https://www.primevideo.com/detail/0HX4ESOLA3Q3YD2ILLZLB8MQV7/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "paranorman.jpeg",
+    "nome": "Paranorman",
+    "diretor": "Sam Fell, Chris Butler",
+    "ano": 2012,
+    "genero": ["Animação", "Comédia", "Terror", "Stop-motion"],
+    "sinopse": "Um garoto que pode falar com os mortos deve salvar sua cidade de uma maldição sobrenatural. Um filme excelente, com uma animação stop-motion encantadora e história envolvente.",
+    "link": "https://www.primevideo.com/detail/0FWQ50NW19OKVW8SFMFXO2GE4E/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "sinners.jpeg",
+    "nome": "Pecadores",
+    "diretor": "Ryan Coogler",
+    "ano": 2025,
+    "genero": ["Crime", "Drama", "Thriller"],
+    "sinopse": "Michael B. Jordan interpreta irmãos gêmeos que voltam à sua cidade natal com o objetivo de reconstruir a vida e apagar um passado conturbado. Filme excepcional que aborda temas profundos com uma narrativa envolvente e atuações poderosas, melhor filme original do ano!",
+    "link": "https://www.primevideo.com/detail/0J21M9AM4CY8XJ74W902BIHZYM/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem":"annabelle.jpeg",
+    "nome": "Annabelle, A criação do mal",
+    "diretor": "David F. Sandberg",
+    "ano": 2017,
+    "genero": ["Terror", "Sobrenatural", "Suspense"],
+    "sinopse": "Antes de possuir a família Warren, a boneca Annabelle aterrorizou um grupo de órfãs. Um filme assustador que expande o universo de 'Invocação do Mal' com uma história envolvente e momentos de puro terror. Altamente recomendado para fãs do gênero, aterrorizante do começo ao fim!",
+    "link": "https://www.primevideo.com/detail/0LKV9QFH3ZD0HVUCAG8ECMTC8E/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "hereditario.jpeg",
+    "nome": "Hereditário",
+    "diretor": "Ari Aster",
+    "ano": 2018,
+    "genero": ["Terror", "Drama", "Mistério", "Psicológico"],
+    "sinopse": "Após a morte da matriarca da família, uma família começa a desvendar segredos sombrios sobre sua linhagem, levando a eventos aterrorizantes. Um filme perturbador e psicológico que redefine o gênero de terror moderno. Um dos filmes mais assustadores já feitos!",
+    "link": "https://www.primevideo.com/detail/0QC60V3WUAY85I3QN9U2UDAPIA/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "shining.jpeg",
+    "nome": "O Iluminado",
+    "diretor": "Stanley Kubrick",
+    "ano": 1980,
+    "genero": ["Terror", "Suspense", "Psicológico"],
+    "sinopse": "Um homem leva sua esposa e filho para um hotel isolado para o inverno, onde uma presença sinistra o influencia para a violência, enquanto seu filho psíquico vê presságios do passado e do futuro.",
+    "link": "https://www.primevideo.com/detail/0U1FXSK4K8SL07VWVRKW6B51UU/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "corra.jpeg",
+    "nome": "Corra!",
+    "diretor": "Jordan Peele",
+    "ano": 2017,
+    "genero": ["Terror", "Mistério", "Suspense", "Psicológico"],
+    "sinopse": "Um jovem fotógrafo negro descobre um segredo sombrio quando conhece os pais aparentemente liberais de sua namorada branca.",
+    "link": "https://www.primevideo.com/detail/0I9VQV8TPDEL2MLX080A1JKN6X/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "bonesandall.jpeg",
+    "nome": "Até os Ossos",
+    "diretor": "Luca Guadagnino",
+    "ano": 2022,
+    "genero": ["Drama", "Romance", "Terror"],
+    "sinopse": "O amor floresce entre uma jovem à margem da sociedade e um marginalizado enquanto eles embarcam em uma odisseia de 3.000 milhas pelas estradas secundárias da América. No entanto, apesar de seus melhores esforços, todos os caminhos levam de volta a seus passados ​​aterrorizantes e a uma posição final que determinará se o amor deles pode sobreviver às diferenças.",
+    "link": "https://www.primevideo.com/detail/0NO7XSAEBKARA1L1IXREU442KS/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "coraline.jpeg",
+    "nome": "Coraline e o Mundo Secreto",
+    "diretor": "Henry Selick",
+    "ano": 2009,
+    "genero": ["Animação", "Fantasia", "Terror", "Stop-motion"],
+    "sinopse": "Uma jovem garota descobre uma porta secreta em sua nova casa que a leva a um mundo paralelo, onde tudo parece perfeito, mas esconde segredos sombrios. Um filme de animação stop-motion encantador e sombrio, perfeito para fãs de histórias fantásticas com um toque de mistério. Toda criança deveria assistir!",
+    "link": "https://www.primevideo.com/detail/0FLW4VBVYERJ23CCDG1KGH0PZV/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "Us.jpeg",
+    "nome": "Nós",
+    "diretor": "Jordan Peele",
+    "ano": 2019,
+    "genero": ["Terror", "Mistério", "Suspense", "Psicológico"],
+    "sinopse": "Uma família é aterrorizada por seus doppelgängers sinistros durante uma viagem de férias. Um filme inteligente e assustador que explora temas profundos com uma narrativa envolvente e repleta de suspense. Recomendo muito!",
+    "link": "https://www.primevideo.com/detail/0RE22OX69O5EH00UUQOYDMB4DA/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "welcometoderry.jpg",
+    "nome": "Welcome to Derry",
+    "diretor": "Andy Muschietti",
+    "ano": 2025,
+    "genero": ["Terror", "Mistério", "Suspense", "Psicológico"],
+    "sinopse": "Uma série que explora a origem do mal em Derry, a cidade aterrorizada por Pennywise. Um prelúdio fascinante que promete aprofundar o universo de 'It' com uma narrativa envolvente e cheia de suspense. Altamente aguardada pelos fãs do gênero!",
+    "link": "https://www.hbomax.com/br/pt/shows/it-bem-vindos-a-derry/6c39354a-c52d-46d7-982c-b5d196988189"
+},
+{
+    "imagem": "bringherback.jpeg",
+    "nome": "Faça Ela Voltar",
+    "diretor": "Danny Philippou, Michael Philippou",
+    "ano": 2025,
+    "genero": ["Terror", "Mistério", "Psicológico", "Thriller"],
+    "sinopse": "Dois irmãos descobrem um ritual aterrorizante na casa de sua nova mãe adotiva. Um menino já mora lá e talvez tenha as respostas para o que está acontecendo. Mas ele é capaz de ajudar?",
+    "link": "https://www.hbomax.com/br/pt/movies/faca-ela-voltar/e9bd3e1a-a482-4b5d-9402-13a9fd287faf"
+},
+{
+    "imagem": "weapons.jpeg",
+    "nome": "A Hora do Mal",
+    "diretor": "Zach Cregger",
+    "ano": 2025,
+    "genero": ["Terror", "Horror", "Suspense", "Psicológico"],
+    "sinopse": "Um épico de terror de várias histórias interrelacionadas sobre o desaparecimento de estudantes do ensino médio em uma pequena cidade. Um filme que promete ser uma experiência aterrorizante e envolvente, explorando o medo e o suspense de maneira única. Altamente aguardado pelos fãs do gênero!",
+    "link": "https://www.primevideo.com/detail/0NUYZGCVPFY6LG1Z3TUTYQ1AZK/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "talktome.jpeg",
+    "nome": "Fale Comigo",
+    "diretor": "Danny Philippou, Michael Philippou",
+    "ano": 2022,
+    "genero": ["Terror", "Horror", "Mistério", "Psicológico"],
+    "sinopse": "Após a morte de sua mãe, uma jovem luta para lidar com suas emoções e se conectar com o mundo ao seu redor. Um filme perturbador que explora temas profundos com uma narrativa envolvente e momentos de puro terror. Altamente recomendado para fãs do gênero, aterrorizante do começo ao fim!",
+    "link": "https://www.primevideo.com/detail/0QKE3ZXS1XGQG0Y2SERLBF0XGY/ref=atv_dp_share_cu_r"
+},
+{
+    "imagem": "them.jpeg",
+    "nome": "Eles",
+    "diretor": "Little Marvin",
+    "ano": 2021,
+    "genero": ["Terror", "Horror", "Mistério", "Suspense","Psicológico"],
+    "sinopse": "Após a morte de sua mãe, uma jovem luta para lidar com suas emoções e se conectar com o mundo ao seu redor. Um filme perturbador que explora temas profundos com uma narrativa envolvente e momentos de puro terror. Altamente recomendado para fãs do gênero, aterrorizante do começo ao fim!",
+    "link": "https://www.primevideo.com/detail/0QG49RD8NK3CHUYPMBRUXPR0AM/ref=atv_dp_share_cu_r"
+}
+]
